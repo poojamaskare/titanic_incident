@@ -1,1 +1,7 @@
-Streamlit==1.10.0
+streamlit==1.10.0
+pandas
+matplotlib
+langchain-experimental
+langchain-groq
+groq
+python-dotenv
