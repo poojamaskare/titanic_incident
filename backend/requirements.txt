@@ -1,0 +1,10 @@
+FastAPI
+LangChain
+pandas
+numpy
+scikit-learn
+uvicorn
+pydantic
+langchain-experimental
+langchain-groq
+tabulate
