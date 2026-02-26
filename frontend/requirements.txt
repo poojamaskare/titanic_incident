@@ -5,3 +5,4 @@ langchain-experimental
 langchain-groq
 groq
 python-dotenv
+tabulate
