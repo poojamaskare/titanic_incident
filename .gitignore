@@ -35,4 +35,3 @@ test_output.txt
 *.db
 titanic.db
 .env.example
-backend/data/Titanic-Dataset.csv
